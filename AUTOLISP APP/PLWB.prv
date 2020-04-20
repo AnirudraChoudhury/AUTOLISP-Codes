@@ -1,0 +1,14 @@
+;;; Visual LISP make file [V1.0] PLWB saved to:[F:/WORKS/PROFESIONAL/AUTOLISP/AUTOLISP APP] at:[2/10/18] 
+(PRV-DEF (:target . "PLWB.VLX")
+	 (:active-x . T)
+	 (:separate-namespace)
+	 (:protected . T)
+	 (:load-file-list
+	   (:lsp "F:/WORKS/PROFESIONAL/AUTOLISP/SOURCE CODE/PLBOM.LSP")
+	 )
+	 (:require-file-list)
+	 (:ob-directory)
+	 (:tmp-directory)
+	 (:optimization . st)
+)
+;; EOF
